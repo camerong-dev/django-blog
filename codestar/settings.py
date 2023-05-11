@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-camerong-dev-django-blog-m6vk4au45n.us2.codeanyapp.com',
-    'django-bl-og.heorkuaoo.com',
+    'django-bl-og.heorkuapp.com',
     'localhost',
 ]
 
